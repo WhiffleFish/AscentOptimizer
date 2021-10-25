@@ -1,4 +1,4 @@
 # AscentOptimizer
 Rocket Ascent Profile Optimizer
 
-<img src="./img/AscentProile.svg">
+<img src="./img/AscentProfile.svg">
